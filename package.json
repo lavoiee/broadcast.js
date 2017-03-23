@@ -1,0 +1,24 @@
+{
+  "name": "broadcast",
+  "version": "1.0.0",
+  "description": "CLI utility to broadcast emails",
+  "main": "broadcast.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lavoiee/broadcast.js.git"
+  },
+  "keywords": [
+    "node.js",
+    "cli",
+    "utility"
+  ],
+  "author": "Eric John Lavoie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lavoiee/broadcast.js/issues"
+  },
+  "homepage": "https://github.com/lavoiee/broadcast.js#readme"
+}
